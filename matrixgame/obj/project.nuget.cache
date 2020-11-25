@@ -1,0 +1,22 @@
+{
+  "version": 2,
+  "dgSpecHash": "IvYS05Caz04sisiIJvFdEdkBuHCy5rkucuVsDHqu5zDWHTxZrlU00XwLUN1JzofszvlBRd5it6G9T4L1xtyiWA==",
+  "success": true,
+  "projectFilePath": "D:\\навчання\\4 курс\\7 семестр\\Теорія прийняття рішень(Кривий)\\matrixgame reserve\\matrixgame.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Anya\\.nuget\\packages\\dotnumerics\\1.1.0\\dotnumerics.1.1.0.nupkg.sha512",
+    "C:\\Users\\Anya\\.nuget\\packages\\mathnet.numerics\\4.12.0\\mathnet.numerics.4.12.0.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1701",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Package 'DotNumerics 1.1.0' was restored using '.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8' instead of the project target framework '.NETCoreApp,Version=v3.1'. This package may not be fully compatible with your project.",
+      "libraryId": "DotNumerics",
+      "targetGraphs": [
+        ".NETCoreApp,Version=v3.1"
+      ]
+    }
+  ]
+}
